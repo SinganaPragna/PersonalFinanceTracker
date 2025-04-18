@@ -21,7 +21,7 @@ def add_transaction():
         print("Invalid type. Please enter 'Income' or 'Expense'")
         return
 
-    category = input("Enter category (e.g., Food, Rent, Salary): ").strip()
+    category = input("Enter category (e.g., Food, Rent, Salary etc...): ").strip()
     try:
         amount = float(input("Enter amount (in RS): "))
         if amount <= 0:

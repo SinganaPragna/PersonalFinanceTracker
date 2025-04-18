@@ -1,5 +1,6 @@
 Date,Type,Category,Amount,Description
-2025-04-18,Income,Salary,50000.0,Salary debited by priya mam (Manager)
-2025-03-31,Income,Business,35000.0,For the wholesale saree business.
-2025-04-18,Expense,Food,15000.0,"restarunts,rice bag,grocery"
-2025-04-15,Expense,Furniture,10000.0,
+2025-04-01,Income,Salary,50000.0,The salary credited by priya mam(Manager)
+2025-04-18,Income,Business,45000.0,The wholesale saree business collection
+2025-03-31,Expense,Food,1600.0,Amount spended on RiceBag
+2025-04-03,Expense,Rent,10000.0,House Rent paid to the owner
+2025-04-18,Expense,Furniture,12000.0,House requirements-Table and almara
